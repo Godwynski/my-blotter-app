@@ -1,9 +1,11 @@
+
 import Image from "next/image";
 
 export default function Home() {
   return (
     <div>
-      ew
+            <p className="text-blue-600">dashboard</p>
+
     </div>
   );
 }
