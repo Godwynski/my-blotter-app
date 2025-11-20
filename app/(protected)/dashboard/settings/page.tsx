@@ -42,7 +42,7 @@ export default function SettingsPage() {
       <div className="flex flex-col lg:flex-row gap-6">
         
         {/* LEFT: Navigation Sidebar */}
-        <div className="w-full lg:w-64 flex-shrink-0">
+        <div className="w-full lg:w-64 shrink-0">
           <div className="bg-white dark:bg-slate-800 rounded-xl border border-slate-200 dark:border-slate-700 shadow-sm overflow-hidden">
             <nav className="flex flex-col p-2 space-y-1">
               <TabButton 
